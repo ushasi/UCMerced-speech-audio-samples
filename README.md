@@ -1,5 +1,7 @@
 # UCMerced-speech-audio-samples
 
+| [PPT](https://github.com/ushasi/UCMerced-speech-audio-samples/blob/master/CMIRNet_IEEE_Young_researchers_conclave.pdf) |
+
  We consider the multi-label VHR UC-Merced dataset (domain A ), where the B domain corresponds to speech signals. In particular, we construct a corpus of spoken speech samples for each of the land-cover semantic labels in .wav format. To increase the diversity of the speech samples, it is ensured that the labels are pronounced with different English accents. In this way, We gather 15 speech samples for each label, leading to 255 speech samples in total. Also, note that the multi-label UC-Merced dataset consists of 2100 VHR images of size 256 ×256, where each image has multiple associated semantic labels from a set of 17 land-cover categories.
  
 If you find this dataset useful, please cite the following paper:
